@@ -110,7 +110,7 @@ venv.bak/
 
 # purescript-python
 .pure-py/
-pure-py.json
+# pure-py.json
 
 # .spago
 .spago/
